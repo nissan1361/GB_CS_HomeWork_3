@@ -1,0 +1,15 @@
+/home/max/RiderProjects/GB_HomeWork3/Task23/bin/Debug/net6.0/Task23
+/home/max/RiderProjects/GB_HomeWork3/Task23/bin/Debug/net6.0/Task23.deps.json
+/home/max/RiderProjects/GB_HomeWork3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/home/max/RiderProjects/GB_HomeWork3/Task23/bin/Debug/net6.0/Task23.dll
+/home/max/RiderProjects/GB_HomeWork3/Task23/bin/Debug/net6.0/Task23.pdb
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.dll
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/refint/Task23.dll
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.pdb
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/home/max/RiderProjects/GB_HomeWork3/Task23/obj/Debug/net6.0/ref/Task23.dll
